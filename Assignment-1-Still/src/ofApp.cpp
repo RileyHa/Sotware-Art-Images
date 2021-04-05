@@ -77,7 +77,13 @@ void ofApp::draw(){
     ofDrawCircle(850, 400, 28);
     
 
-
+    if (saveScreen){
+            cout << "saving screen" << endl;
+            screenImage.grabScreen(0,0,ofGetWidth(),ofGetHeight());
+            screenImage.save("screen.png");
+            saveScreen = false;
+        }
+    }
     
     
 
@@ -87,6 +93,10 @@ void ofApp::draw(){
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
     
+    if(key == 's'){
+        cout << "saving screen" <<endl;
+        saveScreen = true;
+    }
 
 }
 
