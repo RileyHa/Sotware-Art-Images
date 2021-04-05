@@ -6,8 +6,8 @@ void ofApp::setup(){
     
     gui.setup();
     
-    gui.add(slider1.setup("Stars",2,1,3));
-    gui.add(slider2.setup("Asteroids",5,1, 10));
+    gui.add(slider1.setup("Stars",2,0,4));
+    gui.add(slider2.setup("Asteroids",5,0,10));
 
 
 }
@@ -28,14 +28,11 @@ void ofApp::draw(){
     float location2= ofRandom(0, ofGetWidth());
     float len2 = ofRandom(0, ofGetHeight());
 
-    
-    for (int initial=1; initial<5; initial++) {
         
-        ofSetLineWidth(ofRandom(0, 3));
-        ofSetColor(255,255,255);
-        ofDrawCircle(location1, len1, slider1);
+    ofSetLineWidth(ofRandom(0, 3));
+    ofSetColor(255,255,255);
+    ofDrawCircle(location1, len1, slider1);
           
-    }
     
     ofSetColor(ofRandom(0,255), ofRandom(0,255), ofRandom(0,255));
     ofDrawCircle(location2,len2,slider2);
