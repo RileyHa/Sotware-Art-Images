@@ -11,9 +11,6 @@ The idea stemmed from myself wanting to depict the beauty of the space in the gr
 **Below is the blueprint :**
 ![](bin/data/blueprint.jpeg)
 
-**Below is the final image :**
-
-![](bin/data/finalsolarsystem.png)
 
 
 ### Shapes
