@@ -9,11 +9,11 @@ We were told to create a series of still images. I wanted to apply what I have l
 The idea stemmed from myself wanting to depict the beauty of the space in the graphic world. I have always thought of the patterns and visible regularities that the space and our solar system portrays as extremely fascinating. Since the solar system is a sequence of repetition of circles, smaller circles, and larger circles, I thought that is creates a pattern. Therefore, I wanted to model the beauty of the space and our solar system.
 
 **Below is the blueprint :**
-![](data/blueprint.png)
+![](bin/data/blueprint.png)
 
 **Below is the final image :**
 
-![](data/finalsolarsystem.png)
+![](bin/data/finalsolarsystem.png)
 
 
 ### Shapes
@@ -24,7 +24,7 @@ I found that the solar system is consisted of different planets and the sun; thu
 I used the real solar system image as a reference to pick the colors for each of the planets. To give the space-vibe, I first chose the background as all black (0,0,0) but then I decided to use the image with the stars as a background. 
 
 **Below is the background image that I drew :**
-![](data/space.png)
+![](bin/data/space.png)
 
 ### Rules
 The rules are, obviously, the order of the planets and the comparison between their sizes. It surprised me a lot in that the size of the planets vary dramatically. Even the Earth that we live right now seems very huge; I cannot even imagine how huge the Jupiter and the Sun will be. 
