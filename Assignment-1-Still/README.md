@@ -9,7 +9,7 @@ We were told to create a series of still images. I wanted to apply what I have l
 The idea stemmed from myself wanting to depict the beauty of the space in the graphic world. I have always thought of the patterns and visible regularities that the space and our solar system portrays as extremely fascinating. Since the solar system is a sequence of repetition of circles, smaller circles, and larger circles, I thought that is creates a pattern. Therefore, I wanted to model the beauty of the space and our solar system.
 
 **Below is the blueprint :**
-![](bin/data/blueprint.png)
+![](bin/data/blueprint.jpeg)
 
 **Below is the final image :**
 
