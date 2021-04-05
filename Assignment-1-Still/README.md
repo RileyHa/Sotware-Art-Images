@@ -25,11 +25,14 @@ The idea stemmed from myself wanting to depict the beauty of the space in the gr
 I found that the solar system is consisted of different planets and the sun; thus, it was relatively easy for me to draw and figure out the blueprint of the solar system. I placed the Sun in the upper left corner and placed the following planets in order. I noticed that the circles do not turn out as perfect circles, but rather with angular lines. However, I thought that this might better depict the characteristics of graphic art. After placing the planets, I moved on to drawing the orbital lines as well to give a better sense of 'solar system'. 
 
 ### Color
-I used the real solar system image as a reference to pick the colors for each of the planets. To give the space-vibe, I first chose the background as all black (0,0,0) but then I decided to use the image with the stars as a background. 
+I used the real solar system image as a reference to pick the colors for each of the planets. To give the space-vibe, I first chose the background as all black (0,0,0). 
 
 
 ### Rules
 The rules are, obviously, the order of the planets and the comparison between their sizes. It surprised me a lot in that the size of the planets vary dramatically. Even the Earth that we live right now seems very huge; I cannot even imagine how huge the Jupiter and the Sun will be. 
+There are two Gui in the code: both for IntSlider.
+The first gui is for controlling the radius of the stars that randomly appear on the screen.
+The second gui is for controlling the radius of the asteroids that randomly appear on the screen.
 
 
 ## Process & Challenges
