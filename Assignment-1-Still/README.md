@@ -11,6 +11,9 @@ The idea stemmed from myself wanting to depict the beauty of the space in the gr
 **Below is the blueprint :**
 ![](bin/data/blueprint.jpeg)
 
+**Below is the final art :**
+![](bin/data/finalsolarsystem1.png)
+
 
 
 ### Shapes
@@ -39,6 +42,10 @@ Originally, I decided to insert the image as the background. I started drawing t
 ```
 ofSetColor(255, 255, 255, 255);
 ```
+**Below is the demo for this art with background image: **
+![](bin/data/finalsolarsystem.png)
+
+
 However, I decided to change the code into scattering random stars using for loops with the help of Gui. 
 I added two intSlider guis: one for stars, and the other one for asteroids.
 
