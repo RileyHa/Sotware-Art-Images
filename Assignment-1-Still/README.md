@@ -11,8 +11,12 @@ The idea stemmed from myself wanting to depict the beauty of the space in the gr
 **Below is the blueprint :**
 ![](bin/data/blueprint.jpeg)
 
-**Below is the final art :**
+**Below is the still image of final art :**
 ![](bin/data/finalsolarsystem1.png)
+
+**Below is the gif of final project :**
+![](bin/data/finalsolarsystem.gif)
+
 
 
 
