@@ -3,6 +3,8 @@
 #include "ofMain.h"
 
 class ofApp : public ofBaseApp{
+	
+	bool saveScreen = false;
 
 	public:
 		void setup();
