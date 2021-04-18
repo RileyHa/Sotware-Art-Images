@@ -6,7 +6,7 @@
 
 *1) Ideation* <br> 
 Since I missed the previous class due to condition difficulties, it was hard for me to catch up with the class materials. Thus, I watched a lot of youtube videos as reference.
-One thing that inspired me the most was ![This](https://www.youtube.com/watch?v=5N12MPK1aC4) video. 
+One thing that inspired me the most was [This](https://www.youtube.com/watch?v=5N12MPK1aC4) video. 
 According to the instructions, below are few images that I got after the aforementioned tutorial.
 
 **Still Images**
