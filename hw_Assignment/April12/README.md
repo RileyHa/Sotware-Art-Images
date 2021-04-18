@@ -6,14 +6,21 @@
 
 *1) Ideation* <br> 
 Since I missed the previous class due to condition difficulties, it was hard for me to catch up with the class materials. Thus, I watched a lot of youtube videos as reference.
-One thing that inspired me the most was this(https://www.youtube.com/watch?v=5N12MPK1aC4) video. 
+One thing that inspired me the most was ![This](https://www.youtube.com/watch?v=5N12MPK1aC4) video. 
 According to the instructions, below are few images that I got after the aforementioned tutorial.
+
+**Still Images**
 
 ![](Images/tutorial1.png)
 ![](Images/tutorial2.png)
 ![](Images/tutorial3.png)
 ![](Images/tutorial4.png)
-![](Images/tutorial5.png)
+
+**GIF Image**
+
+![](Images/tutorial5.gif)
+![](Images/tutorial6.gif)
+
 
 *2) Process* <br>
 I wanted to apply this tutorial into my unique style. 
@@ -49,16 +56,11 @@ I wanted to apply this tutorial into my unique style.
 *4) Result* <br>
 Below is the result of my project.
 
-**Still Images (Screenshot)**
-
-![](Images/result1.png)
-![](Images/result2.png)
-
 **GIF File**
 
 ![](Images/result3.gif)
 
 **Youtube Link**
 
-
+https://youtu.be/D3mOuP-h0MA
 
