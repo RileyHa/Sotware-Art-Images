@@ -1,6 +1,6 @@
 # Riley Ha Assignment 2 - Motion
 
-## Swirl
+## Swirl - White hole
 
 **1) Ideation** <br> 
 I got my idea from the previous assignment related to motion animation. 
