@@ -16,7 +16,6 @@ Following are the processes (and the challenges that followed).
 ```
     int time = ofGetSystemTimeMillis()/10;
     ofSetColor(ofRandom(255), time%10, ofRandom(255));
-
 ```
 - I also wished to add swirling effect. I think I only had a brief knowledge about ofRotate() function. Thus, I did some research. 
   - https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofRotateYDeg
@@ -66,7 +65,7 @@ Below is the result of my project.
 
 *GIF File* <br>
 
-![](Images/result1.gif)
+![](Images/result2.gif)
 
 *Youtube Link* <br>
 Click[https://youtu.be/xKRnWQHpbec]
