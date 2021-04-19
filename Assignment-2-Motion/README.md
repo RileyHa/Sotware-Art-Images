@@ -18,12 +18,12 @@ Following are the processes (and the challenges that followed).
     ofSetColor(ofRandom(255), time%10, ofRandom(255));
 ```
 - I also wished to add swirling effect. I think I only had a brief knowledge about ofRotate() function. Thus, I did some research. 
-  - https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofRotateYDeg
+  - [ofRotateX, ofRotateY](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofRotateYDeg)
 - While using ofRotate() function, I wanted to give an effect that the shape was rotating from its center.
-  - This[https://stackoverflow.com/questions/12516550/openframeworks-rotate-an-image-from-its-center-through-opengl-calls] website explained!
+  - [This](https://stackoverflow.com/questions/12516550/openframeworks-rotate-an-image-from-its-center-through-opengl-calls) website explained!
 - Making my own shape was another big challenge for me. 
-  - ofBeginShape[http://openframeworks.kr/documentation/graphics/ofGraphics.html#!show_ofBeginShape]
-  - ofEndShape[http://openframeworks.kr/documentation/graphics/ofGraphics.html#!show_ofEndShape]
+  - [ofBeginShape](http://openframeworks.kr/documentation/graphics/ofGraphics.html#!show_ofBeginShape)
+  - [ofEndShape](http://openframeworks.kr/documentation/graphics/ofGraphics.html#!show_ofEndShape)
   - It was a new discovery that ofEndShape gets boolean as input.
 ```
 void ofApp::drawShape(int radius){
