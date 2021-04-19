@@ -68,7 +68,7 @@ Below is the result of my project.
 ![](Images/result2.gif)
 
 *Youtube Link* <br>
-[Click][https://youtu.be/xKRnWQHpbec]
+[Click](https://youtu.be/xKRnWQHpbec)
 
 **5) Useful sources** <br>
 
