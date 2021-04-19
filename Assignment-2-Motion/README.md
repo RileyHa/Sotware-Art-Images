@@ -1,11 +1,14 @@
 # Riley Ha Assignment 2 - Motion
 
-## Swirl - White hole
+## Swirl - Not Black Blackhole
 
 **1) Ideation** <br> 
 I got my idea from the previous assignment related to motion animation. 
 I mentioned earlier that I wish to further implement different rotate techniques to enhance my previous assignment ('Order inside Chaos').
-One thing that inspired me the most was the concept of white hole (yes, the opposite of black holes).
+One thing that inspired me the most was the concept of blackholes.
+I noticed that blackholes are actually not black.
+<img src=Images/blackhole.png width="400"> - By NASA
+
 I intended to create a hypnotizing effect - the more you look at it, the more you will feel hypnotized!
 
 **2) Process & Challenges** <br>
