@@ -52,7 +52,17 @@ Below is the result of my project.
 
 *Still Images* <br>
 ![](Images/result1.png)
+- Right after starting program <br>
+
 ![](Images/result2.png)
+- After 5 seconds <br>
+
+![](Images/result3.png)
+- After 10 seconds <br>
+
+![](Images/result4.png)
+- After 15 seconds <br>
+
 
 *GIF File* <br>
 
