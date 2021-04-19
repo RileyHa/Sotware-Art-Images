@@ -51,16 +51,16 @@ Below is the result of my project.
 
 *Still Images* <br>
 <img src=Images/result1.png width="400" height="400">
-- Right after starting program <br>
+- Right after starting program
 
 <img src=Images/result2.png width="400" height="400">
-- After 5 seconds <br>
+- After 5 seconds
 
 <img src=Images/result3.png width="400" height="400">
-- After 10 seconds <br>
+- After 10 seconds
 
 <img src=Images/result4.png width="400" height="400">
-- After 15 seconds <br>
+- After 15 seconds
 
 
 *GIF File* <br>
