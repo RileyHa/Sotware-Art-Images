@@ -6,7 +6,7 @@
 I got my idea from the previous assignment related to motion animation. 
 I mentioned earlier that I wish to further implement different rotate techniques to enhance my previous assignment ('Order inside Chaos').
 One thing that inspired me the most was the concept of blackholes.
-I noticed that blackholes are actually not black, and they actually had vibrant hues<br>
+I noticed that blackholes are actually not black, and they actually had vibrant hues. <br>
 
 <img src=Images/blackhole.jpeg width="400"> 
 
