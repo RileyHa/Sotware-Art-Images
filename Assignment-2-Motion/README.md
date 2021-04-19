@@ -51,16 +51,16 @@ void ofApp::drawShape(int radius){
 Below is the result of my project.
 
 *Still Images* <br>
-![](Images/result1.png){:height="50%" width="50%"}
+<img src=Images/result1.png width="100" height="100">
 - Right after starting program <br>
 
-![](Images/result2.png){:height="50%" width="50%"}
+![](Images/result2.png)
 - After 5 seconds <br>
 
-![](Images/result3.png){:height="50%" width="50%"}
+![](Images/result3.png)
 - After 10 seconds <br>
 
-![](Images/result4.png){:height="50%" width="50%"}
+![](Images/result4.png)
 - After 15 seconds <br>
 
 
