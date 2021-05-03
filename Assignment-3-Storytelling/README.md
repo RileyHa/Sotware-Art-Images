@@ -58,8 +58,7 @@ ofDrawRectangle(ofGetWidth()/2, i*4, sin(i + ofGetElapsedTimef())*128, 5);
 
 For winter theme, I wanted to add an interactive effect: the direction of the falling snows follow the player's mouseX position.
 ```
-        ofDrawCircle(snow[i].x + (mouseX/10), snow[i].y, ofRandom(1,7));
-
+ofDrawCircle(snow[i].x + (mouseX/10), snow[i].y, ofRandom(1,7));
 ```
 
 ## Evaluation & Reflection 
