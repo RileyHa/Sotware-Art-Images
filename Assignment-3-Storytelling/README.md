@@ -8,6 +8,7 @@ For this week, we were told to create a piece of software art with storytelling.
 **Youtube Link**
 
 [Click Here](https://youtu.be/YIexv0Mnquw)
+*There is no sound!
 
 **Still Images**
 
