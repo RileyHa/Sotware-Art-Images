@@ -24,7 +24,7 @@ For this week, we were told to create a piece of software art with storytelling.
 ### 1. Ideation & Inspiration
 
 It took a long time for me to come up with an idea. I got the idea from Vivaldi's four seasons. 
-![](Images/fourSeasons.jpeg)
+![](Images/fourSeason.jpeg)
 Korea, my country, is famous for the four very distinct seasons. 
 Since I have always enjoyed listening to the song, I wanted to depict the images that come to my head about the four seasons.
 Thus, I decided to make four different animations according to each season.
